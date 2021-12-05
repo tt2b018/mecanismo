@@ -1,0 +1,9 @@
+C:\Users\param\Desktop\Versiones\MecanismoApp\Mecanismo\bin\Debug\Mecanismo.exe.config
+C:\Users\param\Desktop\Versiones\MecanismoApp\Mecanismo\bin\Debug\Mecanismo.exe
+C:\Users\param\Desktop\Versiones\MecanismoApp\Mecanismo\bin\Debug\Mecanismo.pdb
+C:\Users\param\Desktop\Versiones\MecanismoApp\Mecanismo\obj\Debug\Mecanismo.csprojAssemblyReference.cache
+C:\Users\param\Desktop\Versiones\MecanismoApp\Mecanismo\obj\Debug\Mecanismo.ProjectInstaller.resources
+C:\Users\param\Desktop\Versiones\MecanismoApp\Mecanismo\obj\Debug\Mecanismo.csproj.GenerateResource.cache
+C:\Users\param\Desktop\Versiones\MecanismoApp\Mecanismo\obj\Debug\Mecanismo.csproj.CoreCompileInputs.cache
+C:\Users\param\Desktop\Versiones\MecanismoApp\Mecanismo\obj\Debug\Mecanismo.exe
+C:\Users\param\Desktop\Versiones\MecanismoApp\Mecanismo\obj\Debug\Mecanismo.pdb
